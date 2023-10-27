@@ -1,7 +1,8 @@
 # **Interface-Database Description**
  The wavefunction, as the basic hypothesis of quantum mechanics, describes the motion of particles and plays a pivotal role in determining physical properties. We construct two kinds of interfaces as our feature dataset for the visualization of wavefunction . One is an interface connected by wide and narrow segments, the other is porous GNR.
 # **Interface-Database Structure**
- 
+ The dataset contains three parts, Crystallographic Information File, ProjectedBandStructure, ProjectedDensityOfStates. Crystallographic Information File records the crystal structure, and we label the interface as
+ ![Schematic diagram of the framework of the interface database](framework.png)
 
 ## **Interface-Database Crystallographic Information File (CIF)**
  Crystallographic Information File (CIF) is a computer file ending with ".cif", which contains information such as cell parameters, atomic coordinates, literature and so on. Various crystal and material processing software, such as Vesta, Diamond, Materials Studio, etc. use CIF as input or output.
@@ -19,7 +20,7 @@
  _symmetry_Int_Tables_number   1
  _chemical_formula_structural   H8C33
  _chemical_formula_sum   'H32 C132'
-  _cell_volume   21031.63501096
+ _cell_volume   21031.63501096
  _cell_formula_units_Z   4
  loop_
  _symmetry_equiv_pos_site_id
