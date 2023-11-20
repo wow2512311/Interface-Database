@@ -1,5 +1,5 @@
 # **Interface-Database Description**
- The wavefunction, as the basic hypothesis of quantum mechanics, describes the motion of particles and plays a pivotal role in determining physical properties. We construct two kinds of interfaces as our feature dataset for the visualization of wavefunction . One is an interface connected by wide and narrow segments, the other is porous GNR.
+ Interfaces play a crucial role in determining the overall performance and functionality of electronic devices and systems. We construct ample interface structures of graphene nanoribbons (GNR), whose interfacial morphology can be precisely fabricated based on specific molecular precursors.The GNR interfaces serve as promising candidates and their physical properties including energy bands and density of states (DOS) maps are obtained after the stress relief process. This database can provide theoretical guidance for the design of electronic devices and accelerate the ML study of various physical quantities.
 # **Interface-Database Structure**
  The dataset contains three parts, Crystallographic Information File, ProjectedBandStructure, ProjectedDensityOfStates. Crystallographic Information File records the crystal structure, and we label the interface as
  ![Schematic diagram of the framework of the interface database](framework.png)
