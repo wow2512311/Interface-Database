@@ -1,6 +1,6 @@
 # **Cite Our Work**
  1. https://doi.org/10.1088/2632-2153/ad0937
-    Chang, S., et al., Graph machine learning framework for depicting wavefunction on interface. Machine Learning: Science and Technology, 2023.
+    Ao Wu, et al., Graph machine learning framework for depicting wavefunction on interface. Machine Learning: Science and Technology, 2023.
  2. https://doi.org/10.1103/PhysRevApplied.12.044018
     Ye, S., et al., Wave-Function Symmetry Mechanism of Quantum-Well States in Graphene Nanoribbon Heterojunctions. Physical Review Applied, 2019. 12(4): p. 044018.
  3. https://doi.org/10.1103/PhysRevApplied.11.024026
