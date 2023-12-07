@@ -1,4 +1,6 @@
 # **Cite Our Work**
+   Interface discription on https://arxiv.org/abs/2311.18203
+   
  1. https://doi.org/10.1088/2632-2153/ad0937
     Ao Wu, et al., Graph machine learning framework for depicting wavefunction on interface. Machine Learning: Science and Technology, 2023.
  2. https://doi.org/10.1103/PhysRevApplied.12.044018
