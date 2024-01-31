@@ -1,6 +1,8 @@
 # **Cite Our Work**
    Interface discription on https://arxiv.org/abs/2311.18203
-   
+   A Novel Interface Database of Graphene Nanoribbon from Density Functional Theory
+   Ao Wu, Jiangxue Huang, Qijun Huang, Jin He, Hao Wang, Sheng Chang
+
  1. https://doi.org/10.1088/2632-2153/ad0937
     Ao Wu, et al., Graph machine learning framework for depicting wavefunction on interface. Machine Learning: Science and Technology, 2023.
  2. https://doi.org/10.1103/PhysRevApplied.12.044018
